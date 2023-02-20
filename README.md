@@ -63,9 +63,16 @@ As you can see, we added an enable button to control the circuit and to add 1 to
 
 ### Multiplier Helper:
 
+.
 
 ### Full Multiplier:
 
+Now after we preform 8 by 1 bit in the multiplier helper all we need to do now is to expand this concept to 8 by 8 bit circle allowing us to multiply two 8-bit binary numbers.
+
+To do so we need to use the multiplier helper many times….
+.
+.
+.
 #### Components:
 - Multiplier Helper
 - 8-bit parallel binary Adder
