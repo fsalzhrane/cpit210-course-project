@@ -70,7 +70,7 @@ As you can see, we added an enable button to control the circuit and to add 1 to
 - Multiplier Helper
 - 8-bit parallel binary Adder
 
-![Our Project](https://github.com/Techiewicky/cpit210-course-project/blob/main/8x8 Multiplier.png)
+![Our Project](https://github.com/Techiewicky/cpit210-course-project/blob/main/8x8Multiplier.png)
 
 
 ## Final Circuit Design:
