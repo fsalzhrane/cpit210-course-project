@@ -15,11 +15,14 @@
 - Salman Balahwal 30%
 
 
-### Problem Statement:
+## Problem Statement
 
 
 
 .
+
+## Addition
+
 ### Half Adder:
 Half Adder has two inputs, and it has two outputs which are the sum and carry. For example, if both inputs are 1 the output in sum will be 0 and the carry will be 1.
 
@@ -35,6 +38,9 @@ Half Adder has two inputs, and it has two outputs which are the sum and carry. F
 
 
 .
+
+## Subtraction
+
 ### 8-bit parallel binary Subtractor:
 
 Subtraction can be represented as adding a positive number to a negative number, for example: 4–2 = 4 + (-2) 
@@ -51,6 +57,8 @@ As you can see, we added an enable button to control the circuit and to add 1 to
 #### Subtractor Circuit:
 
 ![Our Project](https://github.com/Techiewicky/cpit210-course-project/blob/main/Subtractor.png)
+
+## Multiplication
 
 ### Multiplier Helper (8*1 bits):
 
