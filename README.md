@@ -60,10 +60,10 @@ As you can see, we added an enable button to control the circuit and to add 1 to
 
 ## Multiplication
 
-### Multiplier Helper (8*1 bits):
+### Multiplier Helper:
 
 
-### Full Multiplier (8*8 bits):
+### Full Multiplier:
 
 #### Components:
 - Multiplier Helper
