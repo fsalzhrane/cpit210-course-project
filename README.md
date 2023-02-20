@@ -52,10 +52,10 @@ As you can see, we added an enable button to control the circuit and to add 1 to
 
 ![Our Project](https://github.com/Techiewicky/cpit210-course-project/blob/main/Subtractor.png)
 
-#### Multiplier Helper:
+### Multiplier Helper (8*1 bits):
 
 
-##### 8*8 bits Multiplier:
+### Full Multiplier (8*8 bits):
 
 #### Components:
 - Multiplier Helper
@@ -66,4 +66,4 @@ As you can see, we added an enable button to control the circuit and to add 1 to
 
 ![Our Project](https://github.com/Techiewicky/cpit210-course-project/blob/main/Full%20project.png)
 
-#Explanation:
+#### Explanation:
